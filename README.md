@@ -1,7 +1,10 @@
 # Analise: aluguel de filmes
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Faturamento 2019
+
+## Sobre o projeto
+Este projeto tem a finalidade de apresendar uma analise de locações e faturamento de uma locadora, onde ao final deste apresento minhas considerações com base na analise dos dados.
+
+### Faturamento 2019
 
 <p align="left">
 <a target="blank"><img align="center" src="https://user-images.githubusercontent.com/123665579/216150063-f8ee5a2d-33fe-4c58-83f7-1d71e792c4b6.png"  height="500" width="650" /></a>
@@ -24,3 +27,16 @@ Visando o aumento do faturamento, recomendo autmentar a disponibilidade de filme
 <a target="blank"><img align="center" src="https://user-images.githubusercontent.com/123665579/216150068-6a85eb2b-d28b-4e17-a193-fd66499bb39b.png"  height="500" width="650" /></a>
 </p>
 
+
+## Tecnologias utilizadas
+### SQL
+- MySQl
+
+### Visualização dos dados
+- Google Data Studio
+
+
+# Autor
+Jeferson Rodrigues Sales
+
+www.linkedin.com/in/contatojefersonrds/
